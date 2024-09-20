@@ -1,5 +1,8 @@
 _repo: Virgin-Spain-b-Scenes-from-the-spiritual-drama-of-a-great-people_74212
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74212-h/images/cover.jpg
 creator:
   author:
     agent_name: Frank, Waldo David
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35487
     wikipedia: https://en.wikipedia.org/wiki/Waldo_Frank
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74212#Virgin-Spain-b-Scenes-from-the-spiritual-drama-of-a-great-people
 gutenberg_issued: '2024-08-08'
 gutenberg_type: Text
 identifiers:
